@@ -16,8 +16,8 @@
 - "Don't Scream" - a roblox horror game.
 - "Octaned" - a live chat system with websockets.
 - Working Spotify Clone.
-- Volunteer Developer and Security Analist at hsyst.xyz, a non-profitable organization that distributes open-source projects for the community.
 - Volunteer Developer for ONG Gabriel, a brazilian non-profitable organization for suicide prevention.
+- Developer and Security Analist at [hsyst.xyz](#https://hsyst.xyz/html/hub.html), a non-profitable organization between friends that distributes open-source projects for the community.
 
 ---
 
@@ -36,8 +36,8 @@
 
 ## <>Featured Projects</>
 - [**Bridge OS**](#) – Open-source Linux Distro at hsyst organization  
-- [**Open EdTech Platform**](#) – An open-source platform for accessible education  
-- [**Game Dev Experiments**](#) – Small projects exploring physics and interactivity in Lua/Roblox  
+- [**Playstube**](#) – Open-source video hosting platform, organized in folders. Ideal for those looking for a self-hosted alternative to YouTube.
+- [**LivePub**](#) – Self-hosted live streaming solution. Allows companies and creators to have their own streaming environment without relying on external platforms.  
 
 ---
 
@@ -45,8 +45,8 @@
 I'm always open to help on any project and to make new connections!
 - 💼 [LinkedIn](#) Temporarily offline
 - 🌐 [Personal Website](#) Work in progress...
-- 📧 [Email](#) (mailto:gabriel.nepcardoso@gmail.com)
-- 📞 [Whatsapp](#) +55 27997633482
+- 📧 [Email](#mailto:gabriel.nepcardoso@gmail.com)
+- 📞 [Whatsapp](#wa.me/5527997633482)
 
 ---
 
