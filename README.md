@@ -1,5 +1,5 @@
 ## <>Gabriel Cardoso</>
-👾 Fullstack developer and cybersecurity enthusiast, passionate about 'breaking' and rethinking technology.  
+👾 Fullstack developer and cybersecurity enthusiast, passionate about 'breaking' and rethinking.  
 
 ---
 
